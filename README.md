@@ -252,7 +252,7 @@ allowing alphanumeric characters for the keys of the data stores
 
 # Build
 
-Uses on .NET 8.0
+Uses on .NET 10.0
 
 While inside the solution root, execute the following commands:
 
